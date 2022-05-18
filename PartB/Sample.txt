@@ -1,1 +1,0 @@
-The Part B folder contains S,I,R source code that ran in Repast Simphony to collect the desired output.
